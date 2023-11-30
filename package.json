@@ -1,5 +1,5 @@
 {
-  "name": "piaic_project03_todo_list",
+  "name": "ts-weekly-assignment-27-11-23",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "bin": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hassanraza-se/PIAIC_project_03_todo_list"
+    "url": "https://github.com/hassanraza-se/TS-WEEKLY-ASSIGNMENT-27-11-23"
   },
   "keywords": [
     "cli",
